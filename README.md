@@ -35,4 +35,13 @@ Contact us Plugin adds incredible functionality to your WordPress site.
    - Locate "Contact us Plugin" in the list and click "Activate".
 
 
+## Demo Video
+[![Watch the video](https://i9.ytimg.com/vi/XuwGMstOgHQ/mqdefault.jpg?v=6659521c&sqp=CNS077IG&rs=AOn4CLC7TW8gJlI-UmA7OR10w5XfCVleeQ)](https://youtu.be/XuwGMstOgHQ)
+
+[![Watch the video](https://i9.ytimg.com/vi/GmRM5Dm-5DE/mqdefault.jpg?v=665bda58&sqp=CKy577IG&rs=AOn4CLCB2x9yXE3K6-4-84e7wP5032Oa9w)](https://youtu.be/GmRM5Dm-5DE)
+
+
+## Shortcode Demo Video
+
+[![Watch the video](https://i9.ytimg.com/vi_webp/6g5bEFA25YE/mqdefault.webp?v=662c4c33&sqp=CKy577IG&rs=AOn4CLDCsF8McxHpzzVibZTwKzlEMcNT0A)](https://youtu.be/6g5bEFA25YE)
 
